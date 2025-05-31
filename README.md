@@ -27,6 +27,8 @@ I am a seasoned Senior Software Developer with a strong background in full stack
 
 - **Shaka Player**  
 Contributed to open-source projects under the Kaar Infotech GitHub organization. Key areas: media streaming, Shaka integration, HLS performance tuning.
+🔗 Open-source contributions via [@Ravi-79](https://github.com/Ravi-79) (Work GitHub)
+
 
 ---
 
