@@ -26,7 +26,7 @@ I am a seasoned Senior Software Developer with a strong background in full stack
 ## 🚀 Projects & Contributions
 
 - **Shaka Player**  
-  Contributed to the open-source Shaka Player project (contributions made via organization-specific GitHub account).
+Contributed to open-source projects under the Kaar Infotech GitHub organization. Key areas: media streaming, Shaka integration, HLS performance tuning.
 
 ---
 
