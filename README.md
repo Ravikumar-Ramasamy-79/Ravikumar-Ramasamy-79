@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravikumar R
 
-**Senior Software Developer @Kaar Infotech Pvt Ltd**
+**Senior Software Developer @ Kaar Infotech Pvt Ltd**
 
 ---
 
