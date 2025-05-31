@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Ravikumar R
 
-<!--
-**Ravikumar-Ramasamy-79/Ravikumar-Ramasamy-79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Developer @Kaar Infotech Pvt Ltd**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Professional Overview
+
+I am a seasoned Senior Software Developer with a strong background in full stack development. My expertise spans a wide range of technologies, including C#, HTML, CSS, JavaScript, TypeScript, and Node.js. I am passionate about building scalable web applications and delivering robust software solutions.
+
+---
+
+## 🛠️ Top Skills & Technologies
+
+- **Languages & Frameworks:**  
+  C#, JavaScript, TypeScript, HTML, CSS, Node.js
+
+- **Full Stack Development:**  
+  End-to-end application architecture, RESTful APIs, UI/UX best practices
+
+- **Media Streaming Development:**  
+  Experience with HLS (HTTP Live Streaming) and DASH (Dynamic Adaptive Streaming over HTTP) protocols
+
+---
+
+## 🚀 Projects & Contributions
+
+- **Shaka Player**  
+  Contributed to the open-source Shaka Player project (contributions made via organization-specific GitHub account).
+
+---
+
+## 🌐 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/ravikumar-r-155b52146)
+
+---
+
+## 🎯 Preferred Style
+
+Professional and focused on technology excellence.
